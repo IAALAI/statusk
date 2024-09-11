@@ -12,6 +12,7 @@
     "dependencies": {
         "@types/node": "^22.5.4",
         "@types/ws": "^8.5.12",
+        "status": "file:",
         "ws": "^8.18.0"
     },
     "type": "module",
